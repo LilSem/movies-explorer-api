@@ -1,6 +1,6 @@
 const allowedCors = [
-  'http://lilsem-movies.nomoredomains.rocks/api',
-  'https://lilsem-movies.nomoredomains.rocks/api',
+  'http://api.lilsem-movies.nomoredomains.rocks',
+  'https://api.lilsem-movies.nomoredomains.rocks',
   'localhost:3000',
   'http://localhost:3000',
   'localhost:3001',
